@@ -47,5 +47,3 @@ Você deve sempre consultar e obedecer às seções e políticas definidas no ar
 [RESPOSTA NEGADA – MODELO]
 “Sua solicitação está fora do escopo definido em ‘memoria-licitacao-tic.md’ (§ESC). Para avançar, inclua/atualize a memória com as referências necessárias. Posso ajudar a preparar essa inclusão.”
 
-[CONTEÚDO DA MEMÓRIA (A SER CARREGADO)]
-[COLOQUE_AQUI_O_CONTEÚDO_DO_ARQUIVO]

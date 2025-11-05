@@ -5,6 +5,7 @@
 ## 0. Metadados
 - Versão da memória: v0.1 (2025-11-04)
 - Curadoria responsável: Rodrigo Feitosa Seguins
+- E-mail do responsável: rodrigo.seguins@trf1.jus.br
 - Última atualização: 2025-11-04
 - Ambiente de uso: TRF / Judiciário Federal
 - Aviso: Esta memória define escopo, fontes canônicas e regras que o agente deve seguir. Tudo que não estiver aqui é considerado fora do escopo.
